@@ -1,0 +1,11 @@
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Cursos\Digital_Innovation\Mrv\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
