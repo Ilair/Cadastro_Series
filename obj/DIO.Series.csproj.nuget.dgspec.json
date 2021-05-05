@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj": {}
+    "d:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj": {
+    "d:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "d:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "D:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "d:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\usuar\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\obj\\",
+        "outputPath": "d:\\Cursos\\Digital_Innovation\\Mrv\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
